@@ -1,6 +1,8 @@
 # WTAlbumView
 图片轮播控件，简单实用
 
+https://github.com/Sean-LWT/WTAlbumView
+
 ```OC
 
 typedef NS_ENUM(NSUInteger , WTAlbumViewType){
